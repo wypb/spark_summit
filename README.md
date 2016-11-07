@@ -2,6 +2,6 @@
 
 offical site: [spark submmit](https://spark-summit.org)
 
-https://spark-summit.org/2016/schedule
 
-> git clone git@github.com:pusuo/spark_submmit.git
+##  list
+1. `2016_Europe`由@大数据技术博客 整理。
